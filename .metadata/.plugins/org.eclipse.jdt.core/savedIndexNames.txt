@@ -1,0 +1,6 @@
+INDEX VERSION 1.131+C:\Users\Nikola\Downloads\ZPProjekat-master\ZPProjekat-master\.metadata\.plugins\org.eclipse.jdt.core
+3005044536.index
+1368529475.index
+1865797976.index
+3086988888.index
+1761082378.index

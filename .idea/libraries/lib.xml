@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/lib/bcpg-jdk15to18-171.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/bcprov-jdk15to18-171.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
